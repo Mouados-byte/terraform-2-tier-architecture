@@ -3,7 +3,7 @@
 This project showcases implementing a scalable and resilient 2-tier architecture using Terraform and AWS. Leveraging the power of infrastructure as code, this setup provides a solid foundation for deploying web applications with high availability and fault tolerance.
 
 ## Workflow
-![image](https://github.com/user-attachments/assets/c1bfa007-be71-41dc-8026-42de56850fae)
+![Design sans titre (3)](https://github.com/user-attachments/assets/4f6d535d-6782-4dd5-8eff-9617145adf08)
 
 
 ### Features
